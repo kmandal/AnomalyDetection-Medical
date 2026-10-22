@@ -35,8 +35,8 @@ While the pipeline functions without errors, standard VAEs trained with pixel-wi
 
 ### 1. Installation
 ```bash
-git clone https://github.com
-cd medical-vae-anomaly
+git clone https://github.com/kmandal/AnomalyDetection-Medical.git
+cd AnomalyDetection-Medical
 python -m venv .venv
 source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
 pip install -r requirements.txt
@@ -80,4 +80,4 @@ To overcome pixel-level over-generalization and reliably separate structural tis
 
 ## 🤝 Contributing
 Contributions, issue reports, and structural loss recommendations are highly welcome! Please open an issue or submit a pull request if you want to collaborate on Phase 2 developments.
-write something
+

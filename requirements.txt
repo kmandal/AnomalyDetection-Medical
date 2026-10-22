@@ -1,0 +1,7 @@
+python-dotenv
+pandas
+numpy
+torch
+scikit-learn
+medmnist
+matplotlib
